@@ -1,3 +1,48 @@
 body{
-  background-color:#306d85 ;
+  margin: 0px;
+  text-align: center;
+}
+.bottom-container
+{
+
+  
+}
+
+h1{
+  margin: 0 auto ; 
+  font-family: 'Sacramento',cursive;
+  
+}
+.middle-container {
+  
+   }
+
+.top-container{
+ 
+   background-color: #E4f9f5;
+   
+ 
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 650px;
+  
+}
+.top-cloud{
+  position: absolute;
+  right:650px;
+  top:50px;
+}
+.profile-foto{
+border-radius: 100%;
+}
+.Computer{
+  width: 200px;
+  height: 200px;
+}
+.chillies{
+  width: 200px;
+  height: 200px;
 }

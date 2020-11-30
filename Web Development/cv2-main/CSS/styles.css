@@ -1,0 +1,145 @@
+a{
+  color: #11999e;
+  font: normal;
+}
+body{
+  
+  color:black;
+  margin: 0px;
+  text-align: center;
+}
+.bottom-container
+{
+background-color: #66bfbf;
+position: relative;
+border: none;
+padding: 50px 10px 20px;
+
+  
+}
+
+h1{
+  color: #66bfbf;
+  margin: 0px; 
+  font-family: 'Sacramento',cursive;
+  font-size: 5.625rem;
+  padding-top: 150px;
+  
+}
+h2{
+  
+  color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  color: #11999e;
+  font-size:2.5rem ;
+  font-family: 'Montserrat', sans-serif;
+}
+.middle-container {
+  
+  
+   }
+
+.top-container{
+ 
+   background-color:#EAF6F6;
+   
+ 
+  position: relative;
+  
+}
+.bottom-cloud{
+  position: absolute;
+  left: 450px;
+
+  
+}
+.top-cloud{
+  position: absolute;
+  right:650px;
+  top:50px;
+}
+.profile-foto{
+border-radius: 100%;
+}
+.Computer{
+  width: 200px;
+  height: 200px;
+}
+.chillies{
+  width: 200px;
+  height: 200px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+ line-height: 2;
+
+}
+.chillies{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+  
+}
+.Computer{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-width: 6px;
+  color: #eaf6f6;
+  margin: 100px auto 100px auto;
+}
+.profile-foto{
+  margin: 100px auto 50px auto;
+}
+.profile-descryption{
+  line-height: 2;
+  margin: 50px auto 100px auto;
+}
+.My-skills-descryption{
+  margin: 100px auto 100px auto;
+}
+.Copyright-text{
+  color: #eaf6f6;
+  
+  margin: 25px auto 0 auto;
+}
+.contact-me-button{
+
+  height: 2rem;
+  background-color:#66bfbf; /* Green */
+  border: none;
+  border-radius: 6px;
+  color: white;
+  margin: 50px auto 100px auto;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  
+}
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 10px 20px;
+  text-decoration: none;
+  
+}
+a:hover{
+  color:#EAF6F6
+}
+p{
+  line-height: 2;
+}
